@@ -51,10 +51,11 @@ reseal_on_txs = "none"
     The easiest way to do so, is to import your private key or key-store file to your favourite wallet (for example Metamask), switch network to ALL and send the ALL coin to the Consensus contract address.
 
     You can find your key-store (containing your private key) and the password for the created account in:
+```
     /ALL/nodes/validator/keys/ALL/UTC--xxxx
     /ALL/nodes/validator/node.pwd
-
-6. Wait for 1 cycle (approximately 48 hours).
+```
+7. Wait for 1 cycle (approximately 48 hours).
 
 ```
     Wait until the next cycle gets started.
