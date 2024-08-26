@@ -47,7 +47,11 @@ reseal_on_txs = "none"
     Stake
 
     To stake ALL coin, all you should do is sending your ALL coin to the ALL Consensus contract address over the ALL network from the validator address.
+
+
     The ALL Consensus contract address: 0x2aC1a9CaE1E1edBE4Ffd9134342a25C96283B07e
+
+
     The easiest way to do so, is to import your private key or key-store file to your favourite wallet (for example Metamask), switch network to ALL and send the ALL coin to the Consensus contract address.
 
     You can find your key-store (containing your private key) and the password for the created account in:
