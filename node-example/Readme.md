@@ -4,6 +4,8 @@ Greetings traveller,
 
 I am ***"ALLTRA"***, your ***A***dvanced ***L***ogistics and ***L***ife-support ***T***echnology ***R***esource ***A***ssistant. 
 
+I see that you are interesrted in creating a Validator node on the ALLTRA Smartchain. (Please read the WARNING! at the bottom of the page before you decide to continue).
+
 
 ## Setting up a node
 1. Git clone https://github.com/lloydgalley/ALLNetwork.git
