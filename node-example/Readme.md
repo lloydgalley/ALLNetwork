@@ -57,7 +57,7 @@ reseal_on_txs = "none"
 6. Wait for 1 cycle (approximately 48 hours).
 
 
-***NOTE: WARNING! - Please note that all Validators WILL need to be verified by the ALLTRA Head Office to complete the validation process. Any unauthorised validations that are attempted on the chain WILL be removed and barred from the chain.***
+***WARNING! - Please note that all Validators WILL need to be verified by the ALLTRA Head Office to complete the validation process. Any unauthorised validations that are attempted on the chain WILL be removed and barred from the chain.***
 
     Wait until the next cycle gets started.
 
