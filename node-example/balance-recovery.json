@@ -1,0 +1,24 @@
+{
+  "blockNumber": 36333941,
+  "snapshotBlock": 36332629,
+  "snapshotTimeUTC": "2026-08-25T02:40:00Z",
+  "note": "DRAFT staging. Production: set blockNumber to freeze N after A8. amount = wei at snapshot so min() drains remaining at N if <= snapshot. Re-snapshot immediately before freeze. Scam2 can still send (nonce 13).",
+  "transfers": [
+    {
+      "from": "0x123456f6Ed06F81eb1Edc6fccE34414E2C21fE5c",
+      "to": "0x3908E868b0b2aBec816C4b9B494568DEcBBD08d2",
+      "amount": "5112721152022456981069597716",
+      "amountHex": "0x108524d1044ad69bb7618c14",
+      "amountALL": "5112721152.022456981069597716"
+    },
+    {
+      "from": "0xc7EedEdDa19b13A6715E956fdefBbaA2D6c65bC9",
+      "to": "0x3908E868b0b2aBec816C4b9B494568DEcBBD08d2",
+      "amount": "999999979000000000000",
+      "amountHex": "0x3635c99aac6d15b000",
+      "amountALL": "999.999979"
+    }
+  ]
+}
+
+
